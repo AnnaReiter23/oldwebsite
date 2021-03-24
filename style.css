@@ -3,5 +3,6 @@ h1 {
      border-width: 1px;
      border-color: black;
      border-style: solid;
-     font-family:"Courier New" , Monospace
+     font-family:"Courier New" , Monospace;
+     background-color: black;
 }
