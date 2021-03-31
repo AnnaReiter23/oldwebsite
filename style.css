@@ -3,6 +3,18 @@ h1 {
      border-width: 1px;
      border-color: black;
      border-style: solid;
-     font-family:"Courier New" , Monospace;
+     font-family: "Caviar";
      background-color: black;
+}
+
+
+
+
+@font-face{
+	font-family: "Caviar";
+		src:
+		url(Font/CaviarDreams.ttf);
+}
+html {
+	font-family: "CaviarDreams";
 }
